@@ -1,0 +1,19 @@
+{
+	
+	"blockNumber":"G5",
+	"primaryMemberName":"Rao",
+	"secondaryMemberName":"Rajesh",
+	"mobileNumbers":[ "987645321","9087654321"],
+	"occupyStatus":"Yes",
+	"vehicleList":[{
+		"registrationNumber":"KA 6531",
+		"vehicleType":"Bike",
+		"description":"Pulsar"
+	},
+	{
+		"registrationNumber":"KA 9570",
+		"vehicleType":"Car",
+		"description":"Ertiga"
+	}
+	]
+}

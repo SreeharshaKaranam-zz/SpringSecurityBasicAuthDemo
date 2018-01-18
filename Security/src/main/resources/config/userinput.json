@@ -1,0 +1,8 @@
+{
+    "_id" : "sspuser",
+    "password" : "$2a$10$LMrdybw0vkG6UJiyQgAkcuICCzgtBZQ0F.c.D25NgpWCm4ceLCuTq",
+    "firstName" : "Ssp",
+    "lastName" : "Devuser",
+    "emailAddress" : "sspdev@user.net",
+    "role" : "ROLE_USER"
+}
